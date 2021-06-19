@@ -1,0 +1,43 @@
+body
+{
+	font-family: 'Poppins', sans-serif;
+	background-image: linear-gradient(to right top, #d16ba5, #ba86cf, #96a0e9, #75b7f2, #69c9ed, #53d7eb, #52e3e0, #6beece, #74f8b2, #96ff8a, #c6ff58, #ffff00);
+
+background-size: cover;
+
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	font-family: 'Akaya Telivigala', cursive;
+}
